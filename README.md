@@ -3,10 +3,6 @@ Trabajo Final para la asignatura de Diseño de Interfaces de Usuario UGR
 
 > Realizado por: Francisco Cámara Parra
 
-[TOC]
-
-**PARA UNA MEJOR LECTURA VER EN MI GITHUB:** [https://github.com/quepereza/DIU22-TrabajoFinal](https://github.com/quepereza/DIU22-TrabajoFinal)
-
 ## Parte 1: Mi experiencia UX
 
 Antes de este curso no era capaz de analizar una interfaz de usuario de cualquier aplicación o página web, de hecho a penas me fijaba en los detalles de diseño. Como usuario, tenía mi propia experiencia de uso, pero no tenía consciencia sobre ella. 
